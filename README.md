@@ -1,2 +1,2 @@
 # git-example
-A simple ssh and git demo
+A simple ssh and git demo session
